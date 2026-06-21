@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"log"
 
-	"emoney-2fa/config"
-	"emoney-2fa/models"
+	"github.com/adityaaji03/dompet_backend/config"
+	"github.com/adityaaji03/dompet_backend/models"
 
 	"gorm.io/driver/mysql"
 	"gorm.io/gorm"

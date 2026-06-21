@@ -1,11 +1,10 @@
-
 package middleware
 
 import (
 	"net/http"
 	"strings"
 
-	"emoney-2fa/services"
+	"github.com/adityaaji03/dompet_backend/services"
 
 	"github.com/gin-gonic/gin"
 )

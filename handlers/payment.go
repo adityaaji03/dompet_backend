@@ -4,8 +4,8 @@ import (
 	"net/http"
 	"time"
 
-	"emoney-2fa/models"
-	"emoney-2fa/services"
+	"github.com/adityaaji03/dompet_backend/models"
+	"github.com/adityaaji03/dompet_backend/services"
 
 	"github.com/gin-gonic/gin"
 	"gorm.io/gorm"
