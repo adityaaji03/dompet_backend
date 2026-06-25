@@ -1,6 +1,6 @@
 {
   "info": {
-    "name": "E-Money 2FA Backend",
+    "name": "dompet_be",
     "description": "Backend E-money dengan 2FA (Firebase OTP, Email OTP, TOTP Google Authenticator)",
     "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
     "_postman_id": "github.com/adityaaji03/dompet_backend-collection"
