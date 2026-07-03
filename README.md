@@ -8,6 +8,7 @@
 | **Kelas** | SE 23 SH |
 | **Mata Kuliah** | Aplikasi Mobile Lanjutan |
 
+LINK VIDEO : https://youtu.be/dzeqwfDGg8I
 LINK REPO UI E-MONEY :
 https://github.com/adityaaji03/dompet_atk
 
